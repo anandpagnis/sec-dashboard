@@ -67,7 +67,7 @@ The app uses `llama3.2` by default for answers and `nomic-embed-text` for dense 
 
 ## Using the app
 
-1. Search a ticker such as `AAPL`, `MSFT`, or `NVDA`.
+1. Search any ticker such as `AAPL`, `MSFT`, or `NVDA`.
 2. Open the company overview and check the filing history.
 3. Select a 10-K to load the filing analysis.
 4. Review the financial highlights and the extracted financial tables.
